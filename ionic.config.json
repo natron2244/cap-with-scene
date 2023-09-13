@@ -1,0 +1,7 @@
+{
+  "name": "cap-with-scene",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
